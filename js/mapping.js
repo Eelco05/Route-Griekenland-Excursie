@@ -45,7 +45,7 @@ var locations = [
         'Ingang Kasteel Corfu', 
         39.62338969, 19.92593631, 
         '10 meter boven zeeniveau', 
-        'Ingang van het Venitiaans kasteel van Kerkyra',
+        'Ingang van het Venitiaans kasteel van Kerkyra.',
         'icons/icon_I.png'
     ],
     [
@@ -54,15 +54,29 @@ var locations = [
         '24 meter boven zeeniveau', 
         'Hoogste deel van het Kasteel. Uitzicht dat zowel de stad als het vaarwater om het eiland beheerst.',
         'icons/icon_I.png'
-    ]
+    ],
+    [
+        'Veerboot', 
+        39.55805947, 20.04936218, 
+        '0 meter boven zeeniveau', 
+        'Begin dag 2 met overtocht naar vasteland.',
+        'icons/icon_II.png'
+    ],
+    [
+        'Haven', 
+        39.49211914, 20.26119232, 
+        '2 meter boven zeeniveau', 
+        'Aankomst vasteland.',
+        'icons/icon_II.png'
+    ],
 ];
 
 var map;
 function initMap() {} 
     map = new google.maps.Map(document.getElementById('map'), {
-        zoom: 13,
-        center: new google.maps.LatLng(39.61, 19.92),
-        mapTypeId: google.maps.MapTypeId.HYBRID
+        zoom: 8,
+        center: new google.maps.LatLng(40.08, 21.96),
+        mapTypeId: google.maps.MapTypeId.ROADMAP
 });
 
 var iconBase = 'https://maps.google.com/mapfiles/kml/shapes/';
