@@ -71,33 +71,44 @@ var locations = [
     ],
 ];
 
-var map = new google.maps.Map(document.getElementById('map'), {
+var map;
+function initMap () {
+    map = new google.maps.Map(document.getElementById('map'), {
         zoom: 8,
         center: new google.maps.LatLng(40.08, 21.96),
         mapTypeId: google.maps.MapTypeId.ROADMAP
-});
+    });
 
-var iconBase = 'https://maps.google.com/mapfiles/kml/shapes/';
-var infowindow = new google.maps.InfoWindow();
-var marker, i;
+    var iconBase = 'https://maps.google.com/mapfiles/kml/shapes/';
+    var infowindow = new google.maps.InfoWindow();
+    var marker, i;
 
-for (i = 0; i < locations.length; i++) { 
-    marker = new google.maps.Marker({
-        position: new google.maps.LatLng(locations[i][1], locations[i][2]),
-        icon: locations[i][5],
-        map: map
-});
+    // locations.forEach(function(locations) {
+    //     var marker = new google.maps.Marker({
+    //         position: new google.maps.LatLng(locations[i][1], locations[i][2]),
+    //         icon: locations[i][5],
+    //         map: map
+    //     });
+    // });
 
-google.maps.event.addListener(marker, 'click', (function(marker, i) {
-    return function() {
-        infowindow.setContent(
-            '<b>' + locations[i][0] + '</b>' + '<br>' + 
-            '<i>' + locations[i][3] + '</i>' + '<br>' + 
-            locations[i][4]);
-        infowindow.open(map, marker);
-        google.maps.event.addListener(map,'mouseout', function(){ 
-                infowindow.close();
-            }); 
-    }
-  })(marker, i));
-}
+    for (i = 0; i < locations.length; i++) { 
+        marker = new google.maps.Marker({
+            position: new google.maps.LatLng(locations[i][1], locations[i][2]),
+            icon: locations[i][5],
+            map: map
+    });
+
+    google.maps.event.addListener(marker, 'click', (function(marker, i) {
+        return function() {
+            infowindow.setContent(
+                '<b>' + locations[i][0] + '</b>' + '<br>' + 
+                '<i>' + locations[i][3] + '</i>' + '<br>' + 
+                locations[i][4]);
+            infowindow.open(map, marker);
+            google.maps.event.addListener(map,'mouseout', function(){ 
+                    infowindow.close();
+                }); 
+        }
+      })(marker, i))
+    };
+};
