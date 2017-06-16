@@ -76,7 +76,7 @@ function initMap () {
     map = new google.maps.Map(document.getElementById('map'), {
         zoom: 8,
         center: new google.maps.LatLng(40.08, 21.96),
-        mapTypeId: google.maps.MapTypeId.ROADMAP
+        mapTypeId: google.maps.MapTypeId.TERRAIN
     });
 
     var iconBase = 'https://maps.google.com/mapfiles/kml/shapes/';
