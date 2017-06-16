@@ -71,9 +71,7 @@ var locations = [
     ],
 ];
 
-var map;
-function initMap() {} 
-    map = new google.maps.Map(document.getElementById('map'), {
+var map = new google.maps.Map(document.getElementById('map'), {
         zoom: 8,
         center: new google.maps.LatLng(40.08, 21.96),
         mapTypeId: google.maps.MapTypeId.ROADMAP
