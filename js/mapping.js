@@ -56,17 +56,31 @@ var locations = [
         'icons/icon_I.png'
     ],
     [
+        'Haven Corfu', 
+        39.6300852, 19.90158319, 
+        '0 meter boven zeeniveau', 
+        'Vertrek Corfu dag 2.',
+        'icons/anchor.png'
+    ],
+    [
         'Veerboot', 
         39.55805947, 20.04936218, 
         '0 meter boven zeeniveau', 
-        'Begin dag 2 met overtocht naar vasteland.',
-        'icons/icon_II.png'
+        'Overtocht naar vasteland.',
+        'icons/boat.png'
     ],
     [
-        'Haven', 
+        'Haven Igoumenitsa', 
         39.49211914, 20.26119232, 
-        '2 meter boven zeeniveau', 
+        '0 meter boven zeeniveau', 
         'Aankomst vasteland.',
+        'icons/anchor.png'
+    ],
+    [
+        'Necromanteion', 
+        39.23610492, 20.5340454, 
+        '38 meter boven zeeniveau', 
+        'Mogelijke locatie Necromanteion uit bronnen, maar net zo waarschijnlijk versterkte boerderij.',
         'icons/icon_II.png'
     ],
 ];
