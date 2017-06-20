@@ -357,18 +357,46 @@ var locations = [
         'icons/icon_IV.png'
     ],
     [
-        'Busreis', 
-        40.59023175, 22.16903687, 
-        '87 meter boven zeeniveau', 
-        'Onderweg van <b>Veroia</b> naar <b>Naoussa</b>.',
-        'icons/bus_left.png'
-    ],
-    [
         'Overnachting', 
         40.630225, 22.07229495, 
         '339 meter boven zeeniveau', 
         'Overnachting in <b>Naoussa</b>.',
         'icons/hotel.png'
+    ],
+    [
+        'Cultureel centrum van de School van Aristoteles, Mieza', 
+        40.62959192, 22.09981173, 
+        '143 meter boven zeeniveau', 
+        'Particulier opgezet museum voor de promotie van de lokale cultuur.',
+        'icons/icon_V.png'
+    ],
+    [
+        'School van Aristoteles', 
+        40.63061787, 22.0984894, 
+        '152 meter boven zeeniveau', 
+        'De mogelijke locatie waar Alexander de Grote als jongen les had van de beroemde geleerde Aristoteles. <br>Daarnaast ook een Nymphaeum, plek gewijd aan de hier aanwezige waterbron.',
+        'icons/icon_V.png'
+    ],
+    [
+        'Tomb of the Palmettes', 
+        40.65417365, 22.13663042, 
+        '55 meter boven zeeniveau', 
+        'Grootste bewaard gebleven Macedonische graftombe. <br>Was mogelijk van een van de generaals van Alexander de Grote.',
+        'icons/icon_V.png'
+    ],
+    [
+        'Tomb of Justice', 
+        40.65478004, 22.13932872, 
+        '51 meter boven zeeniveau', 
+        'Graftombe uit de Hellenistische Periode.',
+        'icons/icon_V.png'
+    ],
+    [
+        'Aigai', 
+        40.47925525, 22.32167065, 
+        '159 meter boven zeeniveau', 
+        'Het huidige Vergina, Aigai tussen de 6de en 5de eeuw v. Chr. de hoofdstad van <b>Macedonie</b>.',
+        'icons/icon_V.png'
     ],
 ];
 
