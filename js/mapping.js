@@ -56,7 +56,7 @@ var locations = [
         'icons/icon_I.png'
     ],
     [
-        'Overnachting', 
+        'Overnachting dag 1', 
         39.60863496, 19.92473871, 
         '13 meter boven zeeniveau', 
         'Overnachting <b>Kerkyra</b>.',
@@ -161,7 +161,7 @@ var locations = [
         'icons/icon_II.png'
     ],
     [
-        'Overnachting', 
+        'Overnachting dag 2', 
         39.66346015, 20.85050583, 
         '505 meter boven zeeniveau', 
         'Overnachting in <b>Ioannina</b>.',
@@ -224,7 +224,7 @@ var locations = [
         'icons/icon_III.png'
     ],
     [
-        'Overnachting', 
+        'Overnachting dag 3', 
         39.63725309, 22.4189584, 
         '83 meter boven zeeniveau', 
         'Overnachting in <b>Larissa</b>.',
@@ -357,7 +357,7 @@ var locations = [
         'icons/icon_IV.png'
     ],
     [
-        'Overnachting', 
+        'Overnachting dag 4 & 5', 
         40.630225, 22.07229495, 
         '339 meter boven zeeniveau', 
         'Overnachting in <b>Naoussa</b>.',
@@ -396,6 +396,41 @@ var locations = [
         40.47925525, 22.32167065, 
         '159 meter boven zeeniveau', 
         'Het huidige Vergina, Aigai tussen de 6de en 5de eeuw v. Chr. de hoofdstad van <b>Macedonie</b>.',
+        'icons/icon_V.png'
+    ],
+    [
+        'Aigai, paleis van Phillipus II', 
+        40.4778271, 22.32244313, 
+        '183 meter boven zeeniveau', 
+        'Groots paleis van Phillipus II (<i>359 - 336 v.Chr.</i>), vader van Alexander de Grote. <br> Volgens historische bronnen is Phillipus II in het hier gelegen theater vermoord.',
+        'icons/icon_V.png'
+    ],
+    [
+        'Aigai, Eucleia heiligdom', 
+        40.47992443, 22.32142523, 
+        '152 meter boven zeeniveau', 
+        'Heiligdom voor de Griekse geest van glorie en welvaard. <br> Gelijktijdig met het paleis gebouwd.',
+        'icons/icon_V.png'
+    ],
+    [
+        'Aigai, Tombe', 
+        40.48262761, 22.32181817, 
+        '131 meter boven zeeniveau', 
+        'Macedonische graftombe.',
+        'icons/icon_V.png'
+    ],
+    [
+        'Aigai, Tombe Phillipus II', 
+        40.48749722, 22.31942137, 
+        '112 meter boven zeeniveau', 
+        'Heuvel met verschillende graven en rijke graftombes. <br> Een hiervan is mogelijk het graf van Phillipus II.',
+        'icons/icon_V.png'
+    ],
+    [
+        'Aigai, Cemetery of the Tumuli', 
+        40.48904749, 22.32417583, 
+        '96 meter boven zeeniveau', 
+        'Verzameling van graven en tombes die teruggaan tot in de IJzertijd.',
         'icons/icon_V.png'
     ],
 ];
