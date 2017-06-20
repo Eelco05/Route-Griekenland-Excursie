@@ -232,10 +232,10 @@ var locations = [
     ],
     [
         'Busreis', 
-        40.09895284, 22.55544662, 
+        39.8180299, 22.50961304,
         '39 meter boven zeeniveau', 
         'Onderweg van <b>Larissa</b> naar <b>Platamonas</b>.',
-        'icons/bus_left.png'
+        'icons/bus_right.png'
     ],
     [
         'Kasteel van Platamonas', 
@@ -246,10 +246,10 @@ var locations = [
     ],
     [
         'Busreis', 
-        39.8180299, 22.50961304, 
+        40.09895284, 22.55544662, 
         '39 meter boven zeeniveau', 
         'Onderweg van <b>Platamonas</b> naar <b>Dion</b>.',
-        'icons/bus_right.png'
+        'icons/bus_left.png'
     ],
     [
         'Dion', 
