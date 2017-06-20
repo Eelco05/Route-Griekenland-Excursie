@@ -77,10 +77,66 @@ var locations = [
         'icons/anchor.png'
     ],
     [
+        'Busreis', 
+        39.37650661, 20.4015255, 
+        '120 meter boven zeeniveau', 
+        'Onderweg naar Necromanteion.',
+        'icons/bus_right.png'
+    ],
+    [
         'Necromanteion', 
         39.23610492, 20.5340454, 
         '38 meter boven zeeniveau', 
-        'Mogelijke locatie Necromanteion uit bronnen, maar net zo waarschijnlijk versterkte boerderij.',
+        'Mogelijke locatie Necromanteion uit bronnen, maar was net zo waarschijnlijk versterkte boerderij.',
+        'icons/icon_II.png'
+    ],
+    [
+        'Busreis', 
+        39.12686432, 20.59387207, 
+        '13 meter boven zeeniveau', 
+        'Onderweg naar Nicopolis.',
+        'icons/bus_right.png'
+    ],
+    [
+        'Nicopolis', 
+        39.00899684, 20.73358297, 
+        '28 meter boven zeeniveau', 
+        'Romeinse stad, gebouwd ter ere van de slag bij Actium.',
+        'icons/icon_II.png'
+    ],
+    [
+        'Poort Nicopolis', 
+        39.01019733, 20.731287, 
+        '20 meter boven zeeniveau', 
+        'Gereconstueerde poort in de ommuring van Nicopolis.',
+        'icons/icon_II.png'
+    ],
+    [
+        'Odeon Nicopolis', 
+        39.01106434, 20.72911978, 
+        '23 meter boven zeeniveau', 
+        'Type theater, speciaal voor zang en voordacht. Vaak kleiner dan een normaal theater en was overdekt.',
+        'icons/icon_II.png'
+    ],
+    [
+        'Nikopolis Archeologisch Museum', 
+        38.9920351, 20.7402533, 
+        '20 meter boven zeeniveau', 
+        'Modern, diachroon opgezet museum. Hier staan de archeologische vonsten van Nicopolis opgesteld.',
+        'icons/icon_II.png'
+    ],
+    [
+        'Overwinningsaltaar bij Nicopolis', 
+        39.02776051, 20.73539615, 
+        '76 meter boven zeeniveau', 
+        'Altaar gebouwd om de slag bij Actium in 31 v. Chr. te herdenken. Hierbij versloeg Octavianus in een zeeslag de gezamelijke vloot van Marcus Antonius en Cleopatra, waarna Octavianus Augustus werd, eerste Keizer van het Romeinse Rijk.',
+        'icons/icon_II.png'
+    ],
+    [
+        'Cassope', 
+        39.14505583, 20.67461729, 
+        '555 meter boven zeeniveau', 
+        'Geweldig goed bewaarde Griekse stad uit de 4de eeuw v. Chr.. Wordt verlaten na de aanleg van Nicopolis in 31 v.Chr..',
         'icons/icon_II.png'
     ],
 ];
