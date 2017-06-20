@@ -137,7 +137,7 @@ var locations = [
         39.08743603, 20.70819855, 
         '26 meter boven zeeniveau', 
         'Onderweg van Nicopolis naar Cassope.',
-        'icons/bus_right.png'
+        'icons/bus_left.png'
     ],
     [
         'Cassope', 
@@ -145,6 +145,27 @@ var locations = [
         '555 meter boven zeeniveau', 
         'Geweldig goed bewaarde Griekse stad uit de 4de eeuw v. Chr.. Wordt verlaten na de aanleg van Nicopolis in 31 v.Chr..',
         'icons/icon_II.png'
+    ],
+    [
+        'Busreis', 
+        39.42346419, 20.70922852, 
+        '459 meter boven zeeniveau', 
+        'Onderweg van Cassope naar Ioánnina.',
+        'icons/bus_right.png'
+    ],
+    [
+        'Kastee; Ioánnina', 
+        39.67074432, 20.86255431, 
+        '484 meter boven zeeniveau', 
+        'Fortificaties bij de stad van Ioánnina uit de Ottomaanse Periode, met de eerste fase uit de 11e eeuw en de nu zichtbare resten gebouwd door Ali Pasha in 1795.',
+        'icons/icon_II.png'
+    ],
+    [
+        'Overnachting', 
+        39.66346015, 20.85050583, 
+        '505 meter boven zeeniveau', 
+        'Overnachting in Ioánnina.',
+        'icons/hotel.png'
     ],
 ];
 
