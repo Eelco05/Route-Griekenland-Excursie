@@ -80,7 +80,7 @@ var locations = [
         'Busreis', 
         39.37650661, 20.4015255, 
         '120 meter boven zeeniveau', 
-        'Onderweg naar Necromanteion.',
+        'Onderweg van Igoumenitsa naar Necromanteion.',
         'icons/bus_right.png'
     ],
     [
@@ -94,7 +94,7 @@ var locations = [
         'Busreis', 
         39.12686432, 20.59387207, 
         '13 meter boven zeeniveau', 
-        'Onderweg naar Nicopolis.',
+        'Onderweg van Necromanteion naar Nicopolis.',
         'icons/bus_right.png'
     ],
     [
@@ -131,6 +131,13 @@ var locations = [
         '76 meter boven zeeniveau', 
         'Altaar gebouwd om de slag bij Actium in 31 v. Chr. te herdenken. Hierbij versloeg Octavianus in een zeeslag de gezamelijke vloot van Marcus Antonius en Cleopatra, waarna Octavianus Augustus werd, eerste Keizer van het Romeinse Rijk.',
         'icons/icon_II.png'
+    ],
+    [
+        'Busreis', 
+        39.08743603, 20.70819855, 
+        '26 meter boven zeeniveau', 
+        'Onderweg van Nicopolis naar Cassope.',
+        'icons/bus_right.png'
     ],
     [
         'Cassope', 
