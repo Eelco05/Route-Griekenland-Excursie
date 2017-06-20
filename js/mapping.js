@@ -56,6 +56,13 @@ var locations = [
         'icons/icon_I.png'
     ],
     [
+        'Overnachting', 
+        39.60863496, 19.92473871, 
+        '13 meter boven zeeniveau', 
+        'Overnachting in Corfu.',
+        'icons/hotel.png'
+    ],
+    [
         'Haven Corfu', 
         39.6300852, 19.90158319, 
         '0 meter boven zeeniveau', 
@@ -108,65 +115,122 @@ var locations = [
         'Poort Nicopolis', 
         39.01019733, 20.731287, 
         '20 meter boven zeeniveau', 
-        'Gereconstueerde poort in de ommuring van Nicopolis.',
+        'Gerestoreerde en gereconstrueerde poort in de ommuring van Nicopolis.',
         'icons/icon_II.png'
     ],
     [
         'Odeon Nicopolis', 
         39.01106434, 20.72911978, 
         '23 meter boven zeeniveau', 
-        'Type theater, speciaal voor zang en voordacht. Vaak kleiner dan een normaal theater en was overdekt.',
+        'Kleiner dan een normaal Grieks theater, in dit odeon werden zang-voorstellingen en oraties gehouden.',
         'icons/icon_II.png'
     ],
     [
         'Nikopolis Archeologisch Museum', 
         38.9920351, 20.7402533, 
         '20 meter boven zeeniveau', 
-        'Modern, diachroon opgezet museum. Hier staan de archeologische vonsten van Nicopolis opgesteld.',
+        'Modern museum, waar de archeologische vondsten van Nicopolis en omgeving staan opgesteld.',
         'icons/icon_II.png'
     ],
     [
         'Overwinningsaltaar bij Nicopolis', 
         39.02776051, 20.73539615, 
         '76 meter boven zeeniveau', 
-        'Altaar gebouwd om de slag bij Actium in 31 v. Chr. te herdenken. Hierbij versloeg Octavianus in een zeeslag de gezamelijke vloot van Marcus Antonius en Cleopatra, waarna Octavianus Augustus werd, eerste Keizer van het Romeinse Rijk.',
+        'Altaar gebouwd om de slag bij Actium in 31 v. Chr. te herdenken. <br>Hierbij versloeg Octavianus in een zeeslag de gezamelijke vloot van Marcus Antonius en Cleopatra, waarna Octavianus Augustus werd, eerste Keizer van het Romeinse Rijk.',
         'icons/icon_II.png'
-    ],
-    [
-        'Busreis', 
-        39.08743603, 20.70819855, 
-        '26 meter boven zeeniveau', 
-        'Onderweg van Nicopolis naar Cassope.',
-        'icons/bus_left.png'
     ],
     [
         'Cassope', 
         39.14505583, 20.67461729, 
         '555 meter boven zeeniveau', 
-        'Geweldig goed bewaarde Griekse stad uit de 4de eeuw v. Chr.. Wordt verlaten na de aanleg van Nicopolis in 31 v.Chr..',
+        'Goed bewaarde Griekse stad uit de 4de eeuw v. Chr.. <br>Wordt verlaten na de aanleg van Nicopolis in 31 v.Chr..',
         'icons/icon_II.png'
     ],
     [
         'Busreis', 
         39.42346419, 20.70922852, 
         '459 meter boven zeeniveau', 
-        'Onderweg van Cassope naar Ioánnina.',
+        'Onderweg van Cassope naar Ioannina.',
         'icons/bus_right.png'
     ],
     [
-        'Kastee; Ioánnina', 
+        'Kasteel Ioannina', 
         39.67074432, 20.86255431, 
         '484 meter boven zeeniveau', 
-        'Fortificaties bij de stad van Ioánnina uit de Ottomaanse Periode, met de eerste fase uit de 11e eeuw en de nu zichtbare resten gebouwd door Ali Pasha in 1795.',
+        'Fortificaties bij de stad van Ioannina uit de Ottomaanse Periode, <br>met de eerste fase uit de 11e eeuw en de nu zichtbare resten gebouwd door Ali Pasha in 1795.',
         'icons/icon_II.png'
     ],
     [
         'Overnachting', 
         39.66346015, 20.85050583, 
         '505 meter boven zeeniveau', 
-        'Overnachting in Ioánnina.',
+        'Overnachting in Ioannina.',
         'icons/hotel.png'
     ],
+    [
+        'Archeologisch Museum Ioannina', 
+        39.6666765, 20.8558739, 
+        '491 meter boven zeeniveau', 
+        'Per historische periode ingericht archeologisch museum van de regio.',
+        'icons/icon_III.png'
+    ],
+    [
+        'Dodona', 
+        39.5464645, 20.7882112, 
+        '637 meter boven zeeniveau', 
+        'Archeologische site Dodona. Oudste orakel heiligdom van Griekenland. <br>Politieke hart van de Epirische Bond (370-168 v. Chr.).',
+        'icons/icon_III.png'
+    ],
+    [
+        'Busreis', 
+        40.00447583, 21.38214111, 
+        '601 meter boven zeeniveau', 
+        'Onderweg van Dodona naar Aiani.',
+        'icons/bus_right.png'
+    ],
+    [
+        'Necropolis Aiani', 
+        40.18299638, 21.829319, 
+        '389 meter boven zeeniveau', 
+        'Het Necropolis van verschillende elite tombes, gelegen bij Aiani.',
+        'icons/icon_III.png'
+    ],
+    [
+        'Akropolis Aiani', 
+        40.17532384, 21.83104634, 
+        '451 meter boven zeeniveau', 
+        'Versterkte binnenstad van het oude Aiani. <br>Veel nijverheids gebouwen nabij het centrum.',
+        'icons/icon_III.png'
+    ],
+    [
+        'Busreis', 
+        39.91394967, 22.18139648, 
+        '338 meter boven zeeniveau', 
+        'Onderweg van Aiani naar Larissa.',
+        'icons/bus_right.png'
+    ],
+    [
+        'Diachronisch Museum van Larissa', 
+        39.6184015, 22.3938355, 
+        '98 meter boven zeeniveau', 
+        'Splinternieuw museum, opgezet om de archeologische vondsten uit de omgeving van Larissa te tentoon te stellen. <br>Nadruk op diachrone ontwikkelingen, vanaf het Paleolithicum tot de Moderne Tijd.',
+        'icons/icon_III.png'
+    ],
+    [
+        'Theater van Larissa', 
+        39.64034723, 22.41526365, 
+        '81 meter boven zeeniveau', 
+        'Resten van Oud-Griekse voorganger van Larissa. Meest zichtbaar is het Theater',
+        'icons/icon_III.png'
+    ],
+    [
+        'Overnachting', 
+        39.63725309, 22.4189584, 
+        '83 meter boven zeeniveau', 
+        'Overnachting in Larissa.',
+        'icons/hotel.png'
+    ],
+    
 ];
 
 var map;
