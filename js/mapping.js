@@ -433,6 +433,300 @@ var locations = [
         'Verzameling van graven en tombes die teruggaan tot in de IJzertijd.',
         'icons/icon_V.png'
     ],
+    [
+        'Pella', 
+        40.75351533, 22.51884788, 
+        '17 meter boven zeeniveau', 
+        'Hoofdstad van Macedonie eind 5e eeuw, met mijn bloeiperiode onder Cassander (<i>305 - 297 v.Chr.</i>). <br>Opmerkelijk aan deze stad is dat ondanks het feit dat hij groots is opgezet, <br> dat de archeologie van deze stad erop wijst dat hij maar beperkt bewoond was.',
+        'icons/icon_VI.png'
+    ],
+    [
+        'Pella, agora', 
+        40.75596162, 22.51897663, 
+        '21 meter boven zeeniveau', 
+        'Een van de grootste marktplaatsen in de Griekse wereld.',
+        'icons/icon_VI.png'
+    ],
+    [
+        'Pella, Afrodite heiligdom', 
+        40.75735946, 22.51919121, 
+        '25 meter boven zeeniveau', 
+        'Heiligdom voor de godin van liefde, schoonheid en vruchtbaarheid.',
+        'icons/icon_VI.png'
+    ],
+    [
+        'Pella, archief', 
+        40.75513671, 22.51757115, 
+        '18 meter boven zeeniveau', 
+        'Hier werden mogelijk de publieke archieven van <b>Pella</b> bewaard.',
+        'icons/icon_VI.png'
+    ],
+    [
+        'Pella, mozaieken', 
+        40.75455968, 22.51776695, 
+        '16 meter boven zeeniveau', 
+        'Verschillende prachtige mozaieken gemaakt van rivier kiezels.',
+        'icons/icon_VI.png'
+    ],
+    [
+        'Pella, gebouw van Helena', 
+        40.75451498, 22.51781523, 
+        '16 meter boven zeeniveau', 
+        'Verschillende prachtige mozaieken gemaakt van rivier kiezels.',
+        'icons/icon_VI.png'
+    ],
+    [
+        'Pella, Dionysos huis', 
+        40.75440933, 22.51895249, 
+        '17 meter boven zeeniveau', 
+        'Grote woning met Dionysos mozaiek.',
+        'icons/icon_VI.png'
+    ],
+    [
+        'Pella, werkplaats', 
+        40.75128839, 22.51812637, 
+        '8 meter boven zeeniveau', 
+        'Voormalige woningen, later hergebruikt als werkplaats. <br>Bevat een pottenbakkersovens en een badruimte.',
+        'icons/icon_VI.png'
+    ],
+    [
+        'Archeologisch museum van Pella', 
+        40.76197537, 22.51933873, 
+        '43 meter boven zeeniveau', 
+        'Groot, open, modern museum dat het verhaal achter de site <b>Pella</b> vertelt. <br> Doet dit voornamelijk adhv archeologische vondsten, maar maakt ook goed gebruik van visuele hulpmiddelen.',
+        'icons/icon_VI.png'
+    ],
+    [
+        'Busreis', 
+        40.36956635, 23.04107666, 
+        '71 meter boven zeeniveau', 
+        'Onderweg van <b>Pella</b> naar <b>Mende</b>.',
+        'icons/bus_right.png'
+    ],
+    [
+        'Mende, Poseidon heiligdom', 
+        39.95857806, 23.36610675, 
+        '1 meter boven zeeniveau', 
+        'Aan zee gelegen heiligdom gewijd aan Poseidon. <br>Hier is een as-altaar gevonden dat in gebruik is geweest van de 12e tot de 5e eeuw voor Christus.',
+        'icons/icon_VI.png'
+    ],
+    [
+        'Overnachting dag 6', 
+        40.24194598, 23.27995285, 
+        '2 meter boven zeeniveau', 
+        'Overnachting in <b>Nea Moudania</b>.',
+        'icons/hotel.png'
+    ],
+    [
+        'Olynthos', 
+        40.29648291, 23.3542943, 
+        '56 meter boven zeeniveau', 
+        'Goed bewaarde site, schoolvoorbeeld huizenbouw in de Griekse wereld.',
+        'icons/icon_VII.png'
+    ],
+    [
+        'Busreis', 
+        40.48299279, 23.58215332, 
+        '687 meter boven zeeniveau', 
+        'Onderweg van <b>Olynthos</b> naar <b>Stageira</b>.',
+        'icons/bus_right.png'
+    ],
+    [
+        'Stageira', 
+        40.591667, 23.794722, 
+        '21 meter boven zeeniveau', 
+        'Ionische kolonie, voornamelijk bekend als de geboorteplaats van Aristoteles. <br>Goed bewaard voorbeeld van fortificaties uit de Klassieke Periode.',
+        'icons/icon_VII.png'
+    ],
+    [
+        'Argilos', 
+        40.78138633, 23.81499186, 
+        '70 meter boven zeeniveau', 
+        'Als Tracische kolonie gesticht in de 7e eeuw, was <b>Argilos</b> voornamelijk een handelspost. <br>Deze site wordt nog intestensief onderzocht zowel Griekse als Canadese archeologen.',
+        'icons/icon_VII.png'
+    ],
+    [
+        'Leeuw van Amphipolis', 
+        40.80280574, 23.84252071, 
+        '13 meter boven zeeniveau', 
+        'Gereconstrueerd beeld van een leeuw uit de 4e eeuw v. Chr. <br>Zou op het graf van een belangrijke generaal van Alexander de Grote hebben gestaan.',
+        'icons/icon_VII.png'
+    ],
+    [
+        'Archeologisch museum van Amphipolis', 
+        40.82499763, 23.84879708, 
+        '88 meter boven zeeniveau', 
+        'Klein museum met vondsten uit Amphipolis, een belangrijke Griekse polis(stad) in de Klassieke en Hellenistische periodes.',
+        'icons/icon_VII.png'
+    ],
+    [
+        'Amphipolis, ommuring', 
+        40.82807451, 23.84456992, 
+        '8 meter boven zeeniveau', 
+        'Restanten van de ommuring van Amphipolis, waarbij in verschillende perioden bijgebouwd is.',
+        'icons/icon_VII.png'
+    ],
+    [
+        'Busreis', 
+        40.85744791, 24.15481567, 
+        '103 meter boven zeeniveau', 
+        'Onderweg van <b>Amphipolis</b> naar <b>Kavala</b>.',
+        'icons/bus_right.png'
+    ],
+    [
+        'Overnachting dag 7', 
+        40.93634113, 24.4042363, 
+        '5 meter boven zeeniveau', 
+        'Overnachting in <b>Kavala</b>.',
+        'icons/hotel.png'
+    ],
+    [
+        'Archeologisch Museum Kavala', 
+        40.93578087, 24.40371394, 
+        '4 meter boven zeeniveau', 
+        'Museum van de archeologie van de regio.',
+        'icons/icon_VIII.png'
+    ],
+    [
+        'Phillipi', 
+        41.01274196, 24.28776741, 
+        '77 meter boven zeeniveau', 
+        'Belangrijke Griekse en Romeinse stad. <br>Bekend om de slag bij <b>Phillipi</b>, waar Octavianus en Marcus Antonius de burgeroorlog met Brutus en Cassius wonnen. <br>Daarnaast is dit een belangrijke stad geweest voor de apostel Paulus.',
+        'icons/icon_VIII.png'
+    ],
+    [
+        'Phillipi, theater', 
+        41.01281078, 24.28667307, 
+        '83 meter boven zeeniveau', 
+        'Uitgebreid Grieks theater, in de Romeinse tijd verbouwd tot arena.',
+        'icons/icon_VIII.png'
+    ],
+    [
+        'Phillipi, Basiliek A', 
+        41.01302531, 24.28444684, 
+        '76 meter boven zeeniveau', 
+        'Jongste van de drie Basilieken in Phillipi.',
+        'icons/icon_VIII.png'
+    ],
+    [
+        'Phillipi, gevangenis', 
+        41.01325907, 24.28363144,
+        '72 meter boven zeeniveau', 
+        'Cistern/gevangenis waar de heilige apostel Paulus gevangen zou zijn gehouden.',
+        'icons/icon_VIII.png'
+    ],
+    [
+        'Phillipi, museum', 
+        41.01467273, 24.28279459,
+        '84 meter boven zeeniveau', 
+        'Museum van de archeologische site Phillipi.',
+        'icons/icon_VIII.png'
+    ],
+    [
+        'Phillipi, via Egnatia', 
+        41.01278244, 24.283728,
+        '64 meter boven zeeniveau', 
+        'De belangrijkste verbindingsweg van het West-Romeinse Rijk, deze liep dwars door Phillipi.',
+        'icons/icon_VIII.png'
+    ],
+    [
+        'Phillipi, Romeins forum', 
+        41.01259624, 24.28356707,
+        '64 meter boven zeeniveau', 
+        'Een van twee marktpleinen uit de Romeinse tijd.',
+        'icons/icon_VIII.png'
+    ],
+    [
+        'Phillipi, Vroeg-Christelijke Basiliek', 
+        41.01158428, 24.284361,
+        '67 meter boven zeeniveau', 
+        'Romeins badhuis dat mogelijk verbouwd is tot Basiliek.',
+        'icons/icon_VIII.png'
+    ],
+    [
+        'Phillipi, Basiliek B', 
+        41.01186359, 24.28283215,
+        '63 meter boven zeeniveau', 
+        'Enorm grote en rijke Basiliek. Het feit dat er zo nog veel van de Basiliek overeind staat,<br>getuigd van hoe massief deze moet zijn geweest.',
+        'icons/icon_VIII.png'
+    ],
+    [
+        'Busreis', 
+        40.94412043, 24.58396912, 
+        '1 meter boven zeeniveau', 
+        'Onderweg van <b>Phillipi</b> naar <b>Keramotis</b>.',
+        'icons/bus_right.png'
+    ],
+    [
+        'Haven Keramotis', 
+        40.85730185, 24.70258713, 
+        '2 meter boven zeeniveau', 
+        'Vertrek en aankomst.',
+        'icons/anchor.png'
+    ],
+    [
+        'Veerboot', 
+        40.81900582, 24.68353271, 
+        '0 meter boven zeeniveau', 
+        'Overtocht van <b>Kavala</b> naar <b>Thasos</b> en weer terug de volgende dag.',
+        'icons/boat.png'
+    ],
+    [
+        'Haven Limenas', 
+        40.77979401, 24.70241547, 
+        '1 meter boven zeeniveau', 
+        'Vertrek en aankomst.',
+        'icons/anchor.png'
+    ],
+    [
+        'Busreis', 
+        40.74361546, 24.57435608, 
+        '34 meter boven zeeniveau', 
+        'Onderweg van <b>Limenas</b> naar <b>Fari</b>.',
+        'icons/bus_left.png'
+    ],
+    [
+        'Thasos, Fari', 
+        40.63704087, 24.52248216,
+        '13 meter boven zeeniveau', 
+        'Resten van een pottenbakkers werkplaats aan de kust.',
+        'icons/icon_VIII.png'
+    ],
+    [
+        'Busreis', 
+        40.61864345, 24.59152222, 
+        '0 meter boven zeeniveau', 
+        'Onderweg van <b>Fari</b> naar <b>Aliki</b>.',
+        'icons/bus_right.png'
+    ],
+    [
+        'Thasos, Aliki heiligdom', 
+        40.60513148, 24.74233747,
+        '2 meter boven zeeniveau', 
+        'Heiligdom aan zee, mogelijk gewijd aan Poseidon.',
+        'icons/icon_VIII.png'
+    ],
+    [
+        'Thasos, marmermijnen', 
+        40.60412958, 24.74306703,
+        '15 meter boven zeeniveau', 
+        'Marmer aan zee, dat door de Grieken, Romeinen en Byzantijnen hier gemijnd werd.',
+        'icons/icon_VIII.png'
+    ],
+    [
+        'Busreis', 
+        40.65563874, 24.76524353, 
+        '26 meter boven zeeniveau', 
+        'Onderweg van de <b>marmermijnen</b> naar <b>Limenas</b>.',
+        'icons/bus_right.png'
+    ],
+    [
+        'Overnachting dag 8', 
+        40.77810417, 24.70740706, 
+        '6 meter boven zeeniveau', 
+        'Overnachting in <b>Limenas</b>.',
+        'icons/hotel.png'
+    ],
 ];
 
 var map;
