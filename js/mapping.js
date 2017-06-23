@@ -666,9 +666,9 @@ var locations = [
     ],
     [
         'Veerboot', 
-        40.81900582, 24.68353271, 
+        40.82290299, 24.67494965, 
         '0 meter boven zeeniveau', 
-        'Overtocht van <b>Kavala</b> naar <b>Thasos</b> en weer terug de volgende dag.',
+        'Overtocht van <b>Keramotis</b> naar <b>Thasos</b>.',
         'icons/boat.png'
     ],
     [
@@ -727,13 +727,69 @@ var locations = [
         'Overnachting in <b>Limenas</b>.',
         'icons/hotel.png'
     ],
+    [
+        'Thasos, theater', 
+        40.78206264, 24.71752971,
+        '54 meter boven zeeniveau', 
+        'Grieks theater en later Romeinse arena.',
+        'icons/icon_IX.png'
+    ],
+    [
+        'Thasos, heiligdom', 
+        40.78503794, 24.71599281,
+        '13 meter boven zeeniveau', 
+        'Antiek/Byzantijns heiligdom dat qua ligging sterk verbonden is met de zee.<br>Zicht op de oude haven van <b>Thasos</b>, die nu onder het wateroppervlak ligt.',
+        'icons/icon_IX.png'
+    ],
+    [
+        'Thasos, agora', 
+        40.77976152, 24.71323013,
+        '3 meter boven zeeniveau', 
+        'Grieks agora en later Romeins forum. <br>Laatste jaren worden Geografische Informatie Systemen (GIS)<br>gebruikt om structuur hiervan beter in kaart te brengen.',
+        'icons/icon_IX.png'
+    ],
+    [
+        'Archeologisch museum van Thasos', 
+        40.77977167, 24.71186757,
+        '5 meter boven zeeniveau', 
+        'Museum van de archeologie van <b>Thasos</b>. <br>Laat niet enkel de archeologie en geschiedenis van <b>Thasos</b> zien, <br>maar ook de manier waarop archeologie in de afgelopen eeuw op <b>Thasos</b> bedreven is.',
+        'icons/icon_IX.png'
+    ],
+    [
+        'Veerboot', 
+        40.824202, 24.68387604, 
+        '0 meter boven zeeniveau', 
+        'Overtocht van <b>Thasos</b> naar <b>Keramotis</b>.',
+        'icons/boat.png'
+    ],
+    [
+        'Busreis', 
+        40.6920929, 23.44207764, 
+        '37 meter boven zeeniveau', 
+        'Onderweg van de <b>Keramotis</b> naar <b>Thesseloniki</b>.',
+        'icons/bus_left.png'
+    ],
+    [
+        'Thesseloniki, acropolis/kastro', 
+        40.64450759, 22.96228913,
+        '5 meter boven zeeniveau', 
+        'Byzantijns acropolis van <b>Thesseloniki</b>.<br>Diende in de Byzantijns/Ottomaanse periode als fortificatie,<br>om daarna als gevangenis in gebruik te worden genomen.',
+        'icons/icon_IX.png'
+    ],
+    [
+        'Overnachting dag 9', 
+        40.63928486, 22.94235192, 
+        '35 meter boven zeeniveau', 
+        'Overnachting in <b>Thesseloniki</b>.',
+        'icons/hotel.png'
+    ],
 ];
 
 var map;
 function initMap () {
     map = new google.maps.Map(document.getElementById('map'), {
         zoom: 8,
-        center: new google.maps.LatLng(40.08, 21.96),
+        center: new google.maps.LatLng(40.10, 22.30),
         mapTypeId: google.maps.MapTypeId.TERRAIN
     });
 
