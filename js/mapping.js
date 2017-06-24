@@ -783,6 +783,13 @@ var locations = [
         'Overnachting in <b>Thesseloniki</b>.',
         'icons/hotel.png'
     ],
+    [
+        'Thesseloniki, acropolis/kastro', 
+        40.64450759, 22.96228913,
+        '5 meter boven zeeniveau', 
+        'Byzantijns acropolis van <b>Thesseloniki</b>.<br>Diende in de Byzantijns/Ottomaanse periode als fortificatie,<br>om daarna als gevangenis in gebruik te worden genomen.',
+        'icons/icon_IX.png'
+    ],
 ];
 
 var map;
